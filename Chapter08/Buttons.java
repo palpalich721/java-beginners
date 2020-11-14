@@ -4,7 +4,7 @@ class Buttons extends JFrame {
   JPanel pnl = new JPanel();
 
   public static void main (String[] args) {
-    Window gui = new Window();
+    Buttons gui = new Buttons();
   }
 
   ImageIcon tick = new ImageIcon("tick.png");
